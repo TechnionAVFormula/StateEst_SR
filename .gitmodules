@@ -1,0 +1,12 @@
+[submodule "ConeMapping"]
+	path = ConeMapping
+	url = https://github.com/TechnionAVFormula/ConeMapping
+[submodule "StateEst_Utilities"]
+	path = StateEst_Utilities
+	url = https://github.com/TechnionAVFormula/StateEst_Utilities
+[submodule "KalmanFilter"]
+	path = KalmanFilter
+	url = https://github.com/TechnionAVFormula/KalmanFilter
+[submodule "ConeOrdering"]
+	path = ConeOrdering
+	url = https://github.com/TechnionAVFormula/ConeOrdering
